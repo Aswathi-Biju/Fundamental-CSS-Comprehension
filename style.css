@@ -13,8 +13,8 @@ body {
   /* Card container styles */
   
   .card {
-    width: 35em;
-    height: 22em;
+    width: 42em;
+    height: 28em;
     margin: 5em auto;
     background-color: rgba(56, 173, 212, 0.596);
     border: 0.2em solid black;
